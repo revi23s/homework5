@@ -1,0 +1,53 @@
+hr.divider {
+  height: 0.2rem;
+  max-width: 3.25rem;
+  margin: 1.5rem auto;
+  background-color: #f4623a;
+}
+h1 {
+  text-align: center;
+}
+
+#pageHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  border: 1px solid white;
+  padding: 8px;
+}
+body {
+  background-image: url(bg-masthead.jpg);
+}
+
+body {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+.firstButton {
+  background-color: #f4623a;
+  width: 100px;
+  height: 70px;
+  border-radius: 25px;
+  margin-block: 25px;
+}
+
+h3 {
+  display: inline-block;
+  width: 700px;
+}
+.secondButton {
+  border-radius: 25px;
+  width: 100px;
+  height: 70px;
+}
+section {
+  background-color: #f4623a;
+  width: auto;
+  height: 600px;
+}
+.divider {
+  color: white;
+}
